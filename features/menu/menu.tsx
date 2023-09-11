@@ -1,5 +1,5 @@
 import { Avatar, AvatarImage } from "@/components/ui/avatar";
-//import { BarChartHorizontalBig } from "lucide-react";
+import { BarChartHorizontalBig } from "lucide-react";
 import Link from "next/link";
 import { UserProfile } from "../user-profile";
 
