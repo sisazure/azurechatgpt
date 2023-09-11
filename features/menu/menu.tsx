@@ -21,7 +21,7 @@ export const MainMenu = () => {
           className="w-10 h-10 p-2 items-center justify-center flex border rounded-full"
           title="Reporting"
         >
-          <BarChartHorizontalBig />
+//          <BarChartHorizontalBig />
         </Link>
       </div>
       <UserProfile />
